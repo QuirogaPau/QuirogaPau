@@ -1,11 +1,11 @@
 # Hola! Soy Paula Quiroga 👋 🧘‍♀️
 
 ---
-### Soy una estudiante de Desarrollo Web que recientemente se adentró en el mundo de la tecnología y estoy emocionada por seguir aprendiendo y profundizando en el tema.
+### Soy estudiante deTecnicatura Universitaria de Desarrollo de Aplicaciones Informaticas de la UNICEN.
 ---
 ## Sobre mí 🎈
 
-🎓 Actualmente estoy estudiando Desarrollo Web en [Platzi](https://platzi.com/home) e iniciando con el Bootcamp [Undefined Academy](https://undefined.sh/aprende-a-programar/)
+🎓 Actualmente estoy estudiando Desarrollo Web en [Platzi](https://platzi.com/home) Y haciendo el curso de [Full Stack - Desarrollo Web (JavaScript/Node.JS)](https://inscripcionesagencia.bue.edu.ar/codoacodo/courses)
 ~~~
 🌱 Me encanta aprender cosas nuevas y estoy interesada en explorar diferentes áreas de la tecnología.
 
