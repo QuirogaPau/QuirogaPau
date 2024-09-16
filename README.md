@@ -1,7 +1,7 @@
 # Hola! Soy Paula Quiroga 👋 🧘‍♀️
 
 ---
-### Soy estudiante deTecnicatura Universitaria de Desarrollo de Aplicaciones Informaticas de la UNICEN.
+### Actualmente soy estudiante de la Tecnicatura Universitaria de Desarrollo de Aplicaciones Informaticas de la UNICEN.
 ---
 ## Sobre mí 🎈
 
